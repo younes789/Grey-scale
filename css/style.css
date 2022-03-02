@@ -1,0 +1,28 @@
+.yow{
+    width: 50%;
+    margin-left: 180px;
+}
+div.col-7{
+    margin-right: -22px;
+}
+.more{
+    margin-left: 20px;
+}
+.d-flex{
+    margin-top: 16px;
+}
+.mowa{
+    width: 100%;
+    text-align: right;
+}
+.ropa{
+    position: absolute;
+}
+header{
+    height: 180px;
+    background-color: black;
+}
+.yo,.navo{
+    position: relative;
+    top: -40px;
+}
