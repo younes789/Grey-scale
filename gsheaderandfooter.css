@@ -1,0 +1,57 @@
+@charset "utf-8";
+#head{height:120px; font-family:Georgia, "Times New Roman", Times, serif;}
+#head #topnav{font-family:Verdana, Arial, Helvetica, sans-serif;}
+#head h1, #head p, #head ul, #head a{margin:0; padding:0; list-style:none; line-height:normal; border:none;}
+#head h1 a{position:absolute; top:12px; left:0; font-size:36px; font-weight:normal; color:#FFFFFF; background-color:#181818;}
+#head p{display:block; position:absolute; top:55px; left:0; color:#CCCCCC; background-color:#181818; font-size:16px;}
+#topnav{display:block; position:absolute; top:57px; right:0;}
+#topnav ul{margin:0; padding:0; list-style:none;}
+#topnav li{display:inline; margin:0 15px 0 0; padding:0;}
+#topnav li.last{margin-right:0;}
+#topnav li a{margin:0; padding:0; color:#FFFFFF; background-color:#181818;}
+#topnav li a:hover, #topnav li a.active{color:#FF9900; background-color:#181818;}
+#breadcrumb{display:block; position:relative; width: 960px; margin:-30px auto 0; padding:15px; color:#777777; background-color:#EEEEEE;}
+#breadcrumb a{font-weight:bold; color:#000000; background-color:#EEEEEE;}
+#breadcrumb ul{margin:0; padding:0; list-style:none;}
+#breadcrumb ul li{display:inline;}
+#breadcrumb ul li.first{font-weight:bold;}
+#breadcrumb ul li.current a{text-decoration:underline;}
+
+
+
+
+#footer{padding:20px 0;}
+#footer a{color:#FF9900; background-color:#181818;}
+#footer h2{margin:0 0 15px 0; padding:0 0 8px 0; font-size:22px; font-weight:normal; font-family:Georgia, "Times New Roman", Times, serif; color:#CCCCCC; background-color:#181818; line-height:normal; border-bottom:1px dashed #CCCCCC;}
+#contactform{display:block; float:left; width:350px;}
+
+
+
+#compdetails{display:block; float:right; width:550px;}
+#compdetails ul{margin:0; padding:0; list-style:none;}
+#compdetails li{margin:0 0 12px 0;}
+#compdetails li.last{margin:0;}
+#officialdetails{float:left}
+#officialdetails li.last{margin-bottom:20px;}
+#contactdetails{float:right}
+
+
+
+#copyright{display:block; float:left; width:100%; margin:25px 0 0 0; padding:20px 0 0 0; font-size:12px; border-top:1px dashed #666666;}
+#copyright p{margin:0; padding:0;}
+
+
+
+
+
+
+
+
+
+#contactform form{margin:0; padding:0; border:none; line-height:normal;}
+#contactform label{display:inline; width:170px; float:left; margin:0 0 12px 0; padding:0;}
+#contactform label.margin{margin-left:10px;}
+#contactform label input, #contactform label textarea{display:block; width:162px; margin:5px 0; padding:3px; color:#000000; background-color:#F7F7F7; border:1px solid #CCCCCC;}
+#contactform label textarea{display:block; width:342px; overflow:auto;}
+#contactform p{display:block; width:350px; margin:0; padding:0; clear:both;}
+#contactform p input{padding:5px 10px; color:#666666; background-color:#F7F7F7; border:1px solid #CCCCCC;}
