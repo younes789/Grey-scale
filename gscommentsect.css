@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+#comments{margin-bottom:40px;}
+#comments .commentlist{margin:0; padding:0;}
+#comments .commentlist ul{margin:0; padding:0; list-style:none;}
+#comments .commentlist li.comment_1, #comments .commentlist li.comment_2{margin:0 0 10px 0; padding:15px; list-style:none;}
+#comments .commentlist li.comment_1{color:#666666; background-color:#F7F7F7;}
+#comments .commentlist li.comment_1 a{color:#000000; background-color:#F7F7F7;}
+#comments .commentlist li.comment_2{color:#666666; background-color:#E8E8E8;}
+#comments .commentlist li.comment_2 a{color:#000000; background-color:#E8E8E8;}
+#comments .commentlist .author .name{font-weight:bold;}
+#comments .commentlist .submitdate{font-size:smaller;}
+#comments .commentlist p{margin:10px 5px 10px 0; padding:0; font-weight:normal; text-transform:none;}
+#comments .commentlist li .avatar{float:right; border:1px solid #EEEEEE; margin:0 0 0 10px;}
